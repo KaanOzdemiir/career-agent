@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Environment
+.env
+
+# macOS
+.DS_Store
+
+# Generated data
+data/*
+!data/.gitkeep
+
+# User configuration
+config/profile.yml
+
+# User resume
+resume/*
+!resume/.gitkeep
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
